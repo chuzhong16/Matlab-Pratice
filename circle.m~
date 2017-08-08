@@ -1,0 +1,5 @@
+function a=circle(r)
+global area
+area=r*r*pi;
+return area;
+end
