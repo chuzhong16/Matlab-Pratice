@@ -1,0 +1,3 @@
+function [orms]=odd_rms(nn)
+nn=2*nn;
+temp=[1:2:nn];
